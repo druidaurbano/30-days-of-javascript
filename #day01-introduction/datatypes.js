@@ -1,0 +1,5 @@
+console.log(typeof 'Star Lord')
+console.log(typeof 100)
+console.log(typeof 100.0)
+console.log(typeof true)
+console.log(typeof null)
